@@ -1,1 +1,0 @@
-<%@ Application Codebehind="Global.asax.cs" Inherits="WebViewer_CustomizeCSS.Global_asax" Language="C#" %>

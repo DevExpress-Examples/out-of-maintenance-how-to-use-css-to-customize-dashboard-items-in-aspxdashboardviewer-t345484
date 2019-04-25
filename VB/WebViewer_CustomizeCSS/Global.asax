@@ -1,1 +1,0 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="WebViewer_CustomizeCSS.Global_asax" Language="vb" %>
